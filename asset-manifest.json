@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rambling/static/css/main.996ed379.css",
+    "main.js": "/rambling/static/js/main.e4063ea9.js",
+    "static/js/787.a47c5c16.chunk.js": "/rambling/static/js/787.a47c5c16.chunk.js",
+    "static/media/ACaslonPro-Regular.otf": "/rambling/static/media/ACaslonPro-Regular.0c3c5996df38974367fb.otf",
+    "static/media/FuturaPTLightOblique.otf": "/rambling/static/media/FuturaPTLightOblique.730652294df6fc97b7e5.otf",
+    "static/media/FuturaPTBookOblique.otf": "/rambling/static/media/FuturaPTBookOblique.d04a7475b077300889b0.otf",
+    "static/media/FuturaPTMediumOblique.otf": "/rambling/static/media/FuturaPTMediumOblique.8c176828dcf86ea79c27.otf",
+    "static/media/FuturaPTMedium.otf": "/rambling/static/media/FuturaPTMedium.7af6976ce738bec1704e.otf",
+    "static/media/FuturaPTLight.otf": "/rambling/static/media/FuturaPTLight.725c77b4e125ed776783.otf",
+    "static/media/FuturaPTBook.otf": "/rambling/static/media/FuturaPTBook.bc305be0a88a100ad836.otf",
+    "static/media/superclarendon-rg-italic-58727380a8f54.ttf": "/rambling/static/media/superclarendon-rg-italic-58727380a8f54.09529bb66dbed62c713f.ttf",
+    "static/media/superclarendon-lt-587270bd12d92.ttf": "/rambling/static/media/superclarendon-lt-587270bd12d92.d88e0b7e275271577841.ttf",
+    "static/media/superclarendon-rg-587270e85c031.ttf": "/rambling/static/media/superclarendon-rg-587270e85c031.cd15e8df5c3423b4cedf.ttf",
+    "static/media/superclarendon-lt-italic-587273193977e.ttf": "/rambling/static/media/superclarendon-lt-italic-587273193977e.73d4f9efa5fa73dfe5f6.ttf",
+    "index.html": "/rambling/index.html",
+    "main.996ed379.css.map": "/rambling/static/css/main.996ed379.css.map",
+    "main.e4063ea9.js.map": "/rambling/static/js/main.e4063ea9.js.map",
+    "787.a47c5c16.chunk.js.map": "/rambling/static/js/787.a47c5c16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.996ed379.css",
+    "static/js/main.e4063ea9.js"
+  ]
+}
