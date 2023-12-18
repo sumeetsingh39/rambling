@@ -39,13 +39,14 @@ function App() {
 
         <Routes>
           <Route path="/" element={<Posts data={data} />} />
-          <Route path="blog/:id" element={<Article />} />
-          <Route path="search" element={<Posts data={data} />} />
+          <Route path="rambling" element={<Posts data={data} />} />
+          <Route path="rambling/blog/:id" element={<Article />} />
+          <Route path="rambling/search" element={<Posts data={data} />} />
           <Route
-            path="search/:string"
+            path="rambling/search/:string"
             element={<Search search={search} notify={notify} />}
           />
-          <Route path="error" element={<h2>Error</h2>} />
+          <Route path="rambling/error" element={<h2>Error</h2>} />
           <Route path="*" element={<h2>Error</h2>} />
         </Routes>
 

@@ -7,7 +7,7 @@ const Search = ({ search, notify }) => {
   if (!search || search.length < 3) {
     console.log("Invalid search");
     notify("Search is invalid", "error");
-    return <Navigate to="/" />;
+    return <Navigate to="/rambling" />;
   } else {
     console.log(string);
     const filtered = data.filter((blog) =>
@@ -26,7 +26,7 @@ const Search = ({ search, notify }) => {
       return (
         <div className="">
           <h2>No Posts found for "{search}"</h2>
-          <Link to="/">Go home</Link>
+          <Link to="/rambling">Go home</Link>
         </div>
       );
     }

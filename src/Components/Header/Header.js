@@ -25,7 +25,7 @@ const Header = (props) => {
     if (event.key === "Enter") {
       console.log("Searching for " + search);
       props.setSearch(search);
-      navigate(`search/${search}`);
+      navigate(`rambling/search/${search}`);
     }
   };
   const handleKeyDownEmail = (event) => {
@@ -45,7 +45,7 @@ const Header = (props) => {
       <div className="header">
         <div className="left">
           {/* Replace with logo */}
-          <Link to="/" className="logo-text">
+          <Link to="/rambling" className="logo-text">
             RAMBLING
           </Link>
         </div>

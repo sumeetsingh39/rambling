@@ -12,7 +12,7 @@ const Post = ({ post }) => {
         <p className="post-desc">{parse(post.blog_content)}</p>
         <div className="post-footer">
           <desc>{post.publish_date}</desc>
-          <Link to={`/blog/${post.id}`} className="button">
+          <Link to={`/rambling/blog/${post.id}`} className="button">
             Read
           </Link>
         </div>

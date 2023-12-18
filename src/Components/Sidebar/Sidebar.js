@@ -10,7 +10,7 @@ const Sidebar = (props) => {
     if (event.key === "Enter") {
       console.log("Searching for " + search);
       props.setSearch(search);
-      navigate(`search/${search}`);
+      navigate(`/rambling/search/${search}`);
     }
   };
   const handleKeyDownEmail = (event) => {
