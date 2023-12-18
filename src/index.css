@@ -1,0 +1,133 @@
+@font-face {
+  font-family: "Adobe";
+  src: url("./fonts/Adobe/ACaslonPro-Regular.otf");
+}
+
+@font-face {
+  font-family: "Scal";
+  src: url("./fonts/superclarendon-bl-cufonfonts/superclarendon-rg-587270e85c031.ttf");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Scal";
+  src: url("./fonts/superclarendon-bl-cufonfonts/superclarendon-rg-italic-58727380a8f54.ttf");
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Scal";
+  src: url("./fonts/superclarendon-bl-cufonfonts/superclarendon-lt-587270bd12d92.ttf");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Scal";
+  src: url("./fonts/superclarendon-bl-cufonfonts/superclarendon-lt-italic-587273193977e.ttf");
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Futura";
+  src: url("./fonts/Futura/FuturaPTMedium.otf");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura";
+  src: url("./fonts/Futura/FuturaPTMediumOblique.otf");
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Futura";
+  src: url("./fonts/Futura/FuturaPTBook.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura";
+  src: url("./fonts/Futura/FuturaPTBookOblique.otf");
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Futura";
+  src: url("./fonts/Futura/FuturaPTLight.otf");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura";
+  src: url("./fonts/Futura/FuturaPTLightOblique.otf");
+  font-weight: 300;
+  font-style: italic;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #fff9ed;
+  color: #333;
+  font-family: "Adobe", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+    "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Scal", "Adobe", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+  font-weight: 400;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+#popup-root .popup-content {
+  width: auto;
+  text-align: center;
+  height: 250px;
+}
+
+#popup-root .popup-content .close {
+  float: right;
+  font-size: 50px;
+  cursor: pointer;
+}
+
+#popup-root .popup-content .header {
+  font-family: "Scal", "Adobe", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  justify-content: center;
+}
+
+#popup-root .popup-content input {
+  font-family: "Futura", "Adobe", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+  width: 250px;
+  background: #fff !important;
+  border: 1px solid #8e8684 !important;
+  margin-right: 25px;
+  text-transform: none;
+  text-align: left;
+  font-size: 1em;
+  height: 30px;
+  line-height: 30px;
+  padding-left: 20px;
+  color: #8e8684;
+  margin-top: 70px;
+}
