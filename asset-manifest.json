@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rambling/static/css/main.996ed379.css",
-    "main.js": "/rambling/static/js/main.e4063ea9.js",
+    "main.js": "/rambling/static/js/main.36ef5227.js",
     "static/js/787.a47c5c16.chunk.js": "/rambling/static/js/787.a47c5c16.chunk.js",
     "static/media/ACaslonPro-Regular.otf": "/rambling/static/media/ACaslonPro-Regular.0c3c5996df38974367fb.otf",
     "static/media/FuturaPTLightOblique.otf": "/rambling/static/media/FuturaPTLightOblique.730652294df6fc97b7e5.otf",
@@ -16,11 +16,11 @@
     "static/media/superclarendon-lt-italic-587273193977e.ttf": "/rambling/static/media/superclarendon-lt-italic-587273193977e.73d4f9efa5fa73dfe5f6.ttf",
     "index.html": "/rambling/index.html",
     "main.996ed379.css.map": "/rambling/static/css/main.996ed379.css.map",
-    "main.e4063ea9.js.map": "/rambling/static/js/main.e4063ea9.js.map",
+    "main.36ef5227.js.map": "/rambling/static/js/main.36ef5227.js.map",
     "787.a47c5c16.chunk.js.map": "/rambling/static/js/787.a47c5c16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.996ed379.css",
-    "static/js/main.e4063ea9.js"
+    "static/js/main.36ef5227.js"
   ]
 }
